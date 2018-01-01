@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Household Stories from the Land of Hofer</dc:title>
+      <dc:creator>Rachel Harriette Busk (1831–1907)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2014-01-23</dc:publisher>
+      <dc:date>2014-01-23</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+This eBook is produced by Jeroen Hellingman and the Online Distributed Proofreading Team at www.pgdp.net.
+Scans of this book are available from the Internet Archive (copy 1, 2).
+</dc:rights>
+      <dc:description>A large collection of tales from Tirol (in the wider, geographic sense).</dc:description>
+      <dc:identifier>pg:44746</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
